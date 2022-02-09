@@ -1,5 +1,6 @@
 const http = require("https");
 const config = require("./.env/config.js");
+const fs = require("fs");
 
 let q = "tesla";
 let region = "US";
@@ -15,6 +16,28 @@ const options = {
   },
 };
 
+function call(req) {
+  //open a json file
+  let file = fs.readFileSync("./.env/counting-api-calls.json");
+  let data = JSON.parse(file);
+  let date = new Date();
+  data.push({ date: date, count: 1 });
+  /*   if (req.end().body != undefined) {
+    data = JSON.stringify(data);
+    fs.writeFile("./.env/counting-api-calls.json", data, function (err) {
+      if (err) throw err;
+    });
+  } */
+  req.end(function () {
+    data = JSON.stringify(data);
+    fs.writeFile("./.env/counting-api-calls.json", data, function (err) {
+      if (err) throw err;
+    });
+  });
+
+  return req.body;
+}
+
 const req = http.request(options, function (res) {
   const chunks = [];
 
@@ -28,6 +51,6 @@ const req = http.request(options, function (res) {
   });
 });
 
-req.end();
+//req.end();
 
-console.log(req.body);
+console.log(call(req));
