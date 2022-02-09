@@ -1,0 +1,169 @@
+{
+  "explains": [],
+  "count": 15,
+  "quotes": [
+    {
+      "exchange": "NMS",
+      "shortname": "Tesla, Inc.",
+      "quoteType": "EQUITY",
+      "symbol": "TSLA",
+      "index": "quotes",
+      "score": 1048373.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "NASDAQ",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "NEO",
+      "shortname": "TESLA, INC. CDR (CAD HEDGED)",
+      "quoteType": "EQUITY",
+      "symbol": "TSLA.NE",
+      "index": "quotes",
+      "score": 21890.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "NEO",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "GER",
+      "shortname": "TESLA INC",
+      "quoteType": "EQUITY",
+      "symbol": "TL0.DE",
+      "index": "quotes",
+      "score": 20719.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "XETRA",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "FRA",
+      "shortname": "TESLA INC",
+      "quoteType": "EQUITY",
+      "symbol": "TL0.F",
+      "index": "quotes",
+      "score": 20468.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "Frankfurt",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "MEX",
+      "shortname": "TESLA INC",
+      "quoteType": "EQUITY",
+      "symbol": "TSLA.MX",
+      "index": "quotes",
+      "score": 20325.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "Mexico",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "LSE",
+      "shortname": "LEVERAGE SHARES PUBLIC LIMITED ",
+      "quoteType": "EQUITY",
+      "symbol": "TSL3.L",
+      "index": "quotes",
+      "score": 20244.0,
+      "typeDisp": "Equity",
+      "longname": "Leverage Shares 3x Tesla ETP",
+      "exchDisp": "London",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "LSE",
+      "shortname": "GRANITESHARES FINANCIAL PLC GRA",
+      "quoteType": "EQUITY",
+      "symbol": "3STS.L",
+      "index": "quotes",
+      "score": 20120.0,
+      "typeDisp": "Equity",
+      "longname": "Graniteshares Financial PLC - 3X Short Tesla Daily ETP",
+      "exchDisp": "London",
+      "isYahooFinance": true
+    }
+  ],
+  "news": [
+    {
+      "uuid": "f027a9ad-e656-3549-be20-8daff985baad",
+      "title": "Tesla’s China Operations Look Better Than the U.S. on Paper. What It Means for the Stock.",
+      "publisher": "Barrons.com",
+      "link": "https://finance.yahoo.com/m/f027a9ad-e656-3549-be20-8daff985baad/tesla%E2%80%99s-china-operations-look.html",
+      "providerPublishTime": 1644336660,
+      "type": "STORY"
+    },
+    {
+      "uuid": "6c38818e-3348-33fb-bb58-6ec3be435ce0",
+      "title": "Tesla Reports Almost $2B in Bitcoin Holdings in 2021",
+      "publisher": "Investopedia",
+      "link": "https://finance.yahoo.com/m/6c38818e-3348-33fb-bb58-6ec3be435ce0/tesla-reports-almost-%242b-in.html",
+      "providerPublishTime": 1644328500,
+      "type": "STORY"
+    },
+    {
+      "uuid": "22fd891c-06ce-3802-9c19-00e87371d438",
+      "title": "Tesla Subpoenaed Again Over Elon Musk’s Tweets As the CEO Takes to Twitter to Complain About Media Negativity",
+      "publisher": "GOBankingRates",
+      "link": "https://finance.yahoo.com/news/tesla-subpoenaed-again-over-elon-142759592.html",
+      "providerPublishTime": 1644330479,
+      "type": "STORY"
+    },
+    {
+      "uuid": "dc14df48-ddb3-377e-91a4-7e73b3c56c1e",
+      "title": "Tesla Finally Gets a Mention as Biden Talks Up Electric Vehicles",
+      "publisher": "Barrons.com",
+      "link": "https://finance.yahoo.com/m/dc14df48-ddb3-377e-91a4-7e73b3c56c1e/tesla-finally-gets-a-mention.html",
+      "providerPublishTime": 1644362040,
+      "type": "STORY"
+    },
+    {
+      "uuid": "dd7e4ae3-d5a8-31a7-8df9-b5d181a71844",
+      "title": "SEC subpoenas Tesla over settlement regarding Musk's tweets",
+      "publisher": "TechCrunch",
+      "link": "https://finance.yahoo.com/m/dd7e4ae3-d5a8-31a7-8df9-b5d181a71844/sec-subpoenas-tesla-over.html",
+      "providerPublishTime": 1644336260,
+      "type": "STORY"
+    },
+    {
+      "uuid": "21e5c258-3bd6-3191-9ee3-203e7ab77039",
+      "title": "Tesla cut steering component from some cars to deal with chip shortage - CNBC",
+      "publisher": "Reuters",
+      "link": "https://finance.yahoo.com/news/tesla-cut-steering-component-cars-022759118.html",
+      "providerPublishTime": 1644287279,
+      "type": "STORY"
+    },
+    {
+      "uuid": "3e473082-792e-3815-9319-d65d6dbbf769",
+      "title": "Biden mentions Tesla after Musk’s complaints of snub",
+      "publisher": "MarketWatch",
+      "link": "https://finance.yahoo.com/m/3e473082-792e-3815-9319-d65d6dbbf769/biden-mentions-tesla-after.html",
+      "providerPublishTime": 1644353040,
+      "type": "STORY"
+    },
+    {
+      "uuid": "30648fce-4d74-3d26-8ea1-b350ea9e9906",
+      "title": "Top Stock Reports for Microsoft, Amazon & Tesla",
+      "publisher": "Zacks",
+      "link": "https://finance.yahoo.com/news/top-stock-reports-microsoft-amazon-224010157.html",
+      "providerPublishTime": 1644360010,
+      "type": "STORY"
+    }
+  ],
+  "nav": [],
+  "lists": [],
+  "researchReports": [],
+  "screenerFieldResults": [],
+  "totalTime": 70,
+  "timeTakenForQuotes": 447,
+  "timeTakenForNews": 600,
+  "timeTakenForAlgowatchlist": 400,
+  "timeTakenForPredefinedScreener": 400,
+  "timeTakenForCrunchbase": 0,
+  "timeTakenForNav": 400,
+  "timeTakenForResearchReports": 0,
+  "timeTakenForScreenerField": 0
+}
